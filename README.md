@@ -2,7 +2,7 @@
 <img src="https://app.ipbase.com/img/logo/ipbase.png" width="300"/>
 </p>
 
-# ipbase-js: JS Currency Converter
+# ipbase-js: Geolocation API for JavaScript
 
 This package is a JavaScript wrapper for [ipbase.com] that aims to make the usage of the API as easy as possible in your project.
 
