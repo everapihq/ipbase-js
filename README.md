@@ -20,7 +20,7 @@ yarn add @everapi/ipbase-js
 ## Import
 
 ```js
-import CurrencyAPI from '@everapi/ipbase-js';
+import Ipbase from '@everapi/ipbase-js';
 ```
 
 or use it directly in a Browser:
